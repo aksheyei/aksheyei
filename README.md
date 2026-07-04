@@ -1,56 +1,54 @@
-# Hi, I'm Akshay R 👋
+<div align="center">
 
-### Data Analyst · Palakkad, Kerala, India
+# Akshay R
+### Data Analyst | SQL · Power BI · Excel · Python
 
-> *Transforming raw data into decisive business action*
+📍 Kerala, India &nbsp;|&nbsp; 🟢 Immediately Available &nbsp;|&nbsp; 🎯 Open to Data Analyst / MIS Analyst / Reporting Analyst roles
 
----
+[Portfolio](https://mydatafolio.com/p/akshay-r) · [LinkedIn](https://linkedin.com/in/akshayr04) · [Email](mailto:aksheyei@gmail.com)
 
-## 🧰 Tools & Technologies
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Power%20Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+</div>
 
 ---
 
-## 📊 What I Do
+## What I do
 
-- 🔍 **Exploratory Data Analysis (EDA)** across 50,000+ records
-- 📈 **KPI Dashboard Design** using Power BI & DAX
-- 🗄️ **SQL Querying** — Joins, CTEs, Window Functions, Query Optimization
-- 📉 **Churn Analysis** & **Supply Chain Analytics**
-- 📋 **Stakeholder Reporting** & Business Intelligence
+I turn raw, messy data into business decisions — using SQL for analysis, Power BI for dashboards, and Excel for rapid stakeholder reporting.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Work
 
-| Project | Domain | Tools |
-|---|---|---|
-| [Supply Chain Analytics — FreshKart](https://github.com/aksheyei/Supply-Chain-Delivery-Performance-Analysis) | FMCG | Power BI · MySQL · Excel |
-| [[Telecom Customer Churn Analysis](https://github.com/aksheyei/Telecom-Churn-Analysis](https://github.com/aksheyei/Telecom-Churn-Revenue-Loss-Analysis)) | Telecom | Power BI · SQL · Excel |
+**📉 CRM Sales Pipeline Analysis** — Excel
+Audited an 8,800-deal B2B pipeline and found closed-won deals were net loss-making despite revenue growth.
+→ [View Project](https://github.com/aksheyei/CRM-Sales-Analysis)
 
+**📦 Supply Chain OTIF Analysis** — SQL, Power BI
+Diagnosed a 28.71% On-Time-In-Full rate against a 65.91% target; isolated the regional bottleneck driving it.
+→ [View Project](https://github.com/aksheyei/Supply-Chain-Delivery-Performance-Analysis)
 
----
+**📱 Telecom Churn & Revenue Loss** — Python, Power BI
+Used chi-square and ANOVA testing to quantify a 26.54% churn rate and $3.68M in revenue loss.
+→ [View Project](https://github.com/aksheyei/Telecom-Churn-Revenue-Loss-Analysis)
 
-## 🎓 Education & Certifications
-
-- 🎓 Bachelor of Business Administration — Calicut University (2021–2024)
-- 📜 Business Analyst Master's Program
-- 📜 Microsoft Power BI With AI Assistance
-- 📜 GenAI-Powered SQL
-- 📜 AI-Powered Excel
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshayr04-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/akshayr04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-3b82f6?style=flat-square&logo=github&logoColor=white)](https://aksheyei.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-aksheyei@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aksheyei@gmail.com)
+**🗄️ SQL Data Warehouse Analytics** — MySQL
+Built a star-schema warehouse with CTEs and window functions for customer and product segmentation.
+→ [View Project](https://github.com/aksheyei/Sql-data-warehouse-analytics)
 
 ---
 
-*Available for Data Analyst roles — Immediate Joiner* 🟢
+## Skills
+
+`SQL (MySQL)` `Power BI (DAX, Power Query)` `Excel (Advanced)` `Python (pandas)` `Data Modeling` `Statistical Testing` `Business Reporting`
+
+---
+
+## Background
+
+BBA in Accounting & Finance, University of Calicut — transitioning into data analytics through hands-on, business-framed projects. Full case studies, dashboards, and write-ups on my [portfolio](https://mydatafolio.com/p/akshay-r).
+
+---
+
+<div align="center">
+📬 Let's talk — <a href="mailto:aksheyei@gmail.com">aksheyei@gmail.com</a>
+</div>
