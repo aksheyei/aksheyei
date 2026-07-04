@@ -30,7 +30,7 @@
 | Project | Domain | Tools |
 |---|---|---|
 | [Supply Chain Analytics — FreshKart](https://github.com/aksheyei/Supply-Chain-Delivery-Performance-Analysis) | FMCG | Power BI · MySQL · Excel |
-| [Telecom Customer Churn Analysis](https://github.com/aksheyei/Telecom-Churn-Analysis) | Telecom | Power BI · SQL · Excel |
+| [[Telecom Customer Churn Analysis](https://github.com/aksheyei/Telecom-Churn-Analysis](https://github.com/aksheyei/Telecom-Churn-Revenue-Loss-Analysis)) | Telecom | Power BI · SQL · Excel |
 | [Quick Bite Crisis Recovery Analysis](https://github.com/aksheyei/QuickBite-Analysis) | Food-Tech | Power BI · Excel |
 
 ---
